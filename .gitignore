@@ -11,6 +11,10 @@ recsysintro/
 # C extensions
 *.so
 
+# dataset folders
+
+ml*/
+
 # Distribution / packaging
 .Python
 build/
