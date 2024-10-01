@@ -16,6 +16,13 @@ features*/
 ml*/
 *.dat
 
+# Example notebooks
+
+*exemplo*
+*EXEMPLO*
+*Exemplo*
+
+
 # Distribution / packaging
 .Python
 build/
