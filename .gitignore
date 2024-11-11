@@ -15,7 +15,8 @@ recsysintro/
 features*/
 ml*/
 *.dat
-
+*.csv
+*.zip
 # Example notebooks
 
 *exemplo*
